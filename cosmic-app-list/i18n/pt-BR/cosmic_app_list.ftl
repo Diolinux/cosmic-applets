@@ -1,8 +1,8 @@
-cosmic-app-list = Lista de Aplicativos Cosmic Dock
+cosmic-app-list = Lista de Aplicativos
 favorite = Favorito
-unfavorite = Não Favorito
-quit = Sair
-quit-all = Sair de Todos
+unfavorite = Remover Favorito
+quit = Fechar
+quit-all = Fechar Todos
 new-window = Nova Janela
 run = Executar
 run-on = Executar em {$gpu}
